@@ -32,14 +32,14 @@ const config: Config = {
       //       DEFAULT: "#a20606", //main brand navbar
       //       50: "#fdf5f5", //Card Gradient color
       //       100: "#efa4a4", //Card border Color
-      //       200: "#8bcfe9",
-      //       300: "#73bde2",
-      //       400: "#51a2ff",
+      //       200: "#e98b8b",
+      //       300: "#e27373",
+      //       400: "#ff5151",
       //       500: "#cf4545", // Icon
-      //       600: "#2b7fff",
-      //       700: "#1a6fb3",
-      //       800: "#065ca2",
-      //       900: "#044378",
+      //       600: "#ff2b2b",
+      //       700: "#b31a1a",
+      //       800: "#a20606",
+      //       900: "#780404",
       //       button:"#b31a1a", //Buttons
       //       header:"#f2d2d2bd", //Header
 
@@ -53,14 +53,14 @@ const config: Config = {
       //           DEFAULT: "#10a206", //main brand navbar
       //           50: "#f5fdf6", //Card Gradient color
       //           100: "#a4efad", //Card border Color
-      //           200: "#8bcfe9",
-      //           300: "#73bde2",
-      //           400: "#51a2ff",
+      //           200: "#8be993",
+      //           300: "#91e273",
+      //           400: "#7fff51",
       //           500: "#45cf5e", // Icon
-      //           600: "#2b7fff",
-      //           700: "#1a6fb3",
-      //           800: "#065ca2",
-      //           900: "#044378",
+      //           600: "#2fff2b",
+      //           700: "#2cb31a",
+      //           800: "#06a210",
+      //           900: "#177804",
       //           button:"#1db31a", //Buttons
       //           header:"#d2f2d2bd", //Header
 
@@ -74,14 +74,14 @@ const config: Config = {
       //           DEFAULT: "#a29d06", //main brand navbar
       //           50: "#fcfdf5", //Card Gradient color
       //           100: "#efeea4", //Card border Color
-      //           200: "#8bcfe9",
-      //           300: "#73bde2",
-      //           400: "#51a2ff",
+      //           200: "#d6e98b",
+      //           300: "#d5e273",
+      //           400: "#fff651",
       //           500: "#cfcd45", // Icon
-      //           600: "#2b7fff",
-      //           700: "#1a6fb3",
-      //           800: "#065ca2",
-      //           900: "#044378",
+      //           600: "#f1ff2b",
+      //           700: "#9cb31a",
+      //           800: "#9aa206",
+      //           900: "#787804",
       //           button:"#b3ab1a", //Buttons
       //           header:"#f2f2d2bd", //Header
 
