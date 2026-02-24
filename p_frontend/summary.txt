@@ -1,0 +1,62 @@
+﻿Total Suites: 16
+Passed Suites: 9
+Failed Suites: 7
+Total Tests: 57
+Passed Tests: 30
+Failed Tests: 27
+
+Failed Tests:
+- [Navbar.test.tsx] Navbar Component > renders user icon button
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Navbar.test.tsx] Navbar Component > opens dropdown when user icon is clicked
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Navbar.test.tsx] Navbar Component > closes dropdown when user icon is clicked again
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Navbar.test.tsx] Navbar Component > logs out user and navigates to login
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Navbar.test.tsx] Navbar Component > closes dropdown when clicking outside
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Navbar.test.tsx] Navbar Component > displays logout button with icon
+  Error: TestingLibraryElementError: Found multiple elements with the role "button"
+- [Ordercreation.test.tsx] Order Creation > renders order form with all required fields
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > loads product lists on mount
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > loads product types when product list is selected
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > validates required fields on submit
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > validates tooth selection requirement
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > successfully creates an order with all fields
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > displays product preview when both product list and type are selected
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > allows closing the product preview
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > sets default priority to MEDIUM
+  Error: TypeError: () => ({
+- [Ordercreation.test.tsx] Order Creation > handles design notes input
+  Error: TypeError: () => ({
+- [Productlistpage.test.tsx] AddProductForm > renders form with all fields
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > loads product lists on mount
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > handles product type loading
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > displays product preview section
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > handles teeth selector rendering
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > submits form successfully
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] AddProductForm > shows validation errors
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] OrderDetailsDialog > renders order details correctly
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] OrderDetailsDialog > closes dialog when onClose triggered
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] OrderDetailsDialog > handles null order gracefully
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
+- [Productlistpage.test.tsx] OrderDetailsDialog > displays all order details
+  Error: SyntaxError: Unexpected token 'c', "clinic-123" is not valid JSON
