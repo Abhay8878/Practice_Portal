@@ -118,6 +118,8 @@ const Login: React.FC = () => {
         // DEV MODE ONLY
         setToken(result.data.token);
         setMode("reset");
+        setConfirmPassword("");
+        setPassword("");
       } else {
         setMessage(result.message);
       }
@@ -334,7 +336,8 @@ const Login: React.FC = () => {
             </div>
           )}
           <div className="mt-10 text-center text-sm text-gray-400">
-            &copy; {new Date().getFullYear()}  {App_config.brandname}  {strings[language].copyright}
+            &copy; {new Date().getFullYear()} {App_config.brandname}{" "}
+            {strings[language].copyright}
           </div>
         </div>
       </div>
